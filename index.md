@@ -1,4 +1,3 @@
-<head>speaker1</head>
 ## Voice Cloning - Neural TTS
 
 ### Please listen to the 3 audio samples. 
