@@ -1,7 +1,7 @@
 ## Voice Cloning - Neural TTS
 
 ### Please listen to the 3 audio samples. 
-The first file is the original voice of *speaker 1*
+The first file is the original voice of '*speaker1*'.<br>
 The other 2 files were generated using 2 different neural Text to Speech Networks
 Listen to the audio files and provide a score in the google form.
 Give the 2 audio files scores (from 1-5) based on:
