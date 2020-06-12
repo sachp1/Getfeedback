@@ -35,3 +35,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+<table border="0" width="33%" style="font-size:16px"><tbody><tr><th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">LJSpeech Ground Truth</th><th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">Flowtron</th><th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">Tacotron 2</th></tr><tr><td><audio controls="" preload="none" style="height:30px">
+<source src="/sample.wav" type="audio/wav">audio not supported</audio></td><td><audio controls="" preload="none" style="height:30px"><source src=" https://sachp1.github.io/Getfeedback/sample.wav" type="audio/mpeg">audio not supported</audio></td><td><audio controls="" preload="none" style="height:30px"><source src="http://docs.google.com/uc?export=open&amp;id=15IoFrVsETB0ChBGScD8_MLVxRUlXrzwq" type="audio/mpeg">audio not supported</audio></td></tr></tbody></table>
