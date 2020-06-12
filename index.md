@@ -1,9 +1,13 @@
 ## Voice Cloning - Neural TTS
 
 ### Please listen to the 3 audio samples. 
-#### The first file is the original voice of *speaker 1*
-#### Second file was generated using a neural Text to Speech network using Wavenet
-#### Third file was generated using WAVEGLOW vocoder
+###The first file is the original voice of *speaker 1*
+###The other 2 files were generated using 2 different neural Text to Speech Networks
+Listen to the audio files and provide a score in the google form.
+Give the 2 audio files scores (from 1-5) based on:
+> How well it resembles the original speaker
+> How clear the audio file is
+
 
 <table border="0" width="20%" style="font-size:16px">
   <tbody>
