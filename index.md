@@ -11,7 +11,7 @@
   <tr>
   <td>
   <audio controls="" preload="none" style="height:30px">
-<source src="/sample.wav" type="audio/wav">audio not supported</audio>
+<source src="https://sachp1.github.io/speaker1/sample.wav" type="audio/wav">audio not supported</audio>
     </td></tr><br>
     <tr>
     <th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">
@@ -19,7 +19,7 @@
   <tr>
   <td>
   <audio controls="" preload="none" style="height:30px">
-<source src="/satya_nadella.wav" type="audio/wav">audio not supported</audio>
+<source src="https://sachp1.github.io/speaker1/satya_nadella.wav" type="audio/wav">audio not supported</audio>
     </td></tr>
   
   <tr>
@@ -29,7 +29,7 @@
   <tr>
   <td>
   <audio controls="" preload="none" style="height:30px">
- <source src="/steve_jobs.wav" type="audio/wav">audio not supported</audio>
+ <source src="https://sachp1.github.io/speaker1/steve_jobs.wav" type="audio/wav">audio not supported</audio>
 </td></tr>
  
 
