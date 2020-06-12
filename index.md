@@ -11,7 +11,7 @@
   <tr>
   <td>
   <audio controls="" preload="none" style="height:30px">
-<source src="/sample.wav" type="audio/mpeg">audio not supported</audio>
+<source src="/sample.wav" type="audio/wav">audio not supported</audio>
     </td></tr><br>
     <tr>
     <th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">
@@ -19,7 +19,7 @@
   <tr>
   <td>
   <audio controls="" preload="none" style="height:30px">
-<source src="/sample.wav" type="audio/mpeg">audio not supported</audio>
+<source src="/satya_nadella.wav" type="audio/wav">audio not supported</audio>
     </td></tr>
   
   <tr>
@@ -29,7 +29,7 @@
   <tr>
   <td>
   <audio controls="" preload="none" style="height:30px">
- <source src="http://docs.google.com/uc?export=open&amp;id=15IoFrVsETB0ChBGScD8_MLVxRUlXrzwq" type="audio/mpeg">audio not supported</audio>
+ <source src="/steve_jobs.wav" type="audio/wav">audio not supported</audio>
 </td></tr>
  
 
