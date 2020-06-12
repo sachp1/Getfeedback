@@ -3,13 +3,39 @@
 ## Voice Cloning - Neural TTS
 
 ### Please listen to the audio samples and provide feedback
-<table border="0" width="20%" style="font-size:16px"><tbody><tr><th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">Speaker Ground Truth</th><th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">
-  Wavenet vocoder</th><th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">
-  WAVEGLOW vocoder</th></tr><tr><td><audio controls="" preload="none" style="height:30px">
-<source src="/sample.wav" type="audio/wav">audio not supported</audio>
- </td><td><audio controls="" preload="none" style="height:30px"><source src=" https://sachp1.github.io/Getfeedback/sample.wav" type="audio/mpeg">audio not supported</audio></td><td><audio controls="" preload="none" style="height:30px">
+<table border="0" width="20%" style="font-size:16px">
+  <tbody>
+  <tr><th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">
+    Speaker Ground Truth</th></tr>
+    
+  <tr>
+  <td>
+  <audio controls="" preload="none" style="height:30px">
+<source src="/sample.wav" type="audio/mpeg">audio not supported</audio>
+    </td></tr><br>
+    <tr>
+    <th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">
+      Wavenet vocoder</th></tr>
+  <tr>
+  <td>
+  <audio controls="" preload="none" style="height:30px">
+<source src="/sample.wav" type="audio/mpeg">audio not supported</audio>
+    </td></tr>
   
- <source src="http://docs.google.com/uc?export=open&amp;id=15IoFrVsETB0ChBGScD8_MLVxRUlXrzwq" type="audio/mpeg">audio not supported</audio></td></tr></tbody></table>
+  <tr>
+    <th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">
+  WAVEGLOW vocoder</th></tr>
+ 
+  <tr>
+  <td>
+  <audio controls="" preload="none" style="height:30px">
+ <source src="http://docs.google.com/uc?export=open&amp;id=15IoFrVsETB0ChBGScD8_MLVxRUlXrzwq" type="audio/mpeg">audio not supported</audio>
+</td></tr>
+ 
+
+
+ </tbody>
+ </table>
 
 
 
