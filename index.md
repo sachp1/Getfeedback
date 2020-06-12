@@ -2,12 +2,6 @@
 <h1>speaker1</h1>
 ## Voice Cloning - Neural TTS
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Please listen to the audio samples and provide feedback
 <table border="0" width="33%" style="font-size:16px"><tbody><tr><th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">Speaker Ground Truth</th><th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">
   Wavenet vocoder</th><th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">
