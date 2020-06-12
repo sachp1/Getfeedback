@@ -1,8 +1,9 @@
 <head>speaker1</head>
-<h1>speaker1</h1>
 ## Voice Cloning - Neural TTS
 
-### Please listen to the audio samples and provide feedback
+### Please listen to the 3 audio samples. 
+#### Ground is the original voice of *speaker 1*
+#### 
 <table border="0" width="20%" style="font-size:16px">
   <tbody>
   <tr><th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">
