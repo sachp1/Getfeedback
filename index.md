@@ -3,7 +3,7 @@
 ## Voice Cloning - Neural TTS
 
 ### Please listen to the audio samples and provide feedback
-<table border="0" width="33%" style="font-size:16px"><tbody><tr><th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">Speaker Ground Truth</th><th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">
+<table border="0" width="20%" style="font-size:16px"><tbody><tr><th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">Speaker Ground Truth</th><th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">
   Wavenet vocoder</th><th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">
   WAVEGLOW vocoder</th></tr><tr><td><audio controls="" preload="none" style="height:30px">
 <source src="/sample.wav" type="audio/wav">audio not supported</audio>
