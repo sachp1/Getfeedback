@@ -3,7 +3,7 @@
 ### Please listen to the 3 audio samples. 
 The first file is the original voice of '*speaker1*'.<br>
 The other 2 files were generated using 2 different neural Text to Speech Networks.<br><br>
-Listen to the audio files and provide a score in the google form.
+Listen to the audio files and provide a score in the google form.<br>
 Give the 2 audio files scores (from 1-5) based on:
 1. How well it resembles the original speaker
 2. Quality of generated speech
