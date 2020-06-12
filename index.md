@@ -2,8 +2,10 @@
 ## Voice Cloning - Neural TTS
 
 ### Please listen to the 3 audio samples. 
-#### Ground is the original voice of *speaker 1*
-#### 
+#### The first file is the original voice of *speaker 1*
+#### Second file was generated using a neural Text to Speech network using Wavenet
+#### Third file was generated using WAVEGLOW vocoder
+
 <table border="0" width="20%" style="font-size:16px">
   <tbody>
   <tr><th bgcolor="#3cb371" style="white-space:nowrap;height:30px;min-width: 240px">
